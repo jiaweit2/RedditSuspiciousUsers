@@ -5,8 +5,8 @@ The random forest algorithm is used here. Based on this [reddit report](https://
 
 ### Some Details
 The features I used in the random forest is as follows:
-            1. Average Link Karma per day (float)
-            1. Average Comment Karma per day (float)
-            1. if Email Verified (boolean)
-            1. if gold (boolean)
+1. Average Link Karma per day (float)
+1. Average Comment Karma per day (float)
+1. if Email Verified (boolean)
+1. if gold (boolean)
 
